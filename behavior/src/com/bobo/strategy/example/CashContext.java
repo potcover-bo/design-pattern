@@ -25,6 +25,8 @@ public class CashContext {
             case "正常收费" :
                 cashSuper = new CashNormal();
                 break;
+            default:
+                break;
         }
         cashSuper.algorithmInterface();
     }
