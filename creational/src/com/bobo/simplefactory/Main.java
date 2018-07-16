@@ -7,6 +7,11 @@ package com.bobo.simplefactory;
  */
 public class Main {
 
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
+
     public static void main(String[] args) {
 
         try {
