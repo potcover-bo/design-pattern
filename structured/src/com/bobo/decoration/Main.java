@@ -1,7 +1,7 @@
 package com.bobo.decoration;
 
 /**
- * Created by bobo.dou on 2018/7/16 16:06
+ * Created by evildoerDb on 2018/7/16 16:06
  * 装饰者模式测试
  */
 public class Main {

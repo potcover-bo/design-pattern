@@ -1,7 +1,7 @@
 package com.bobo.simplefactory;
 
 /**
- * Created by bobo.dou on 2018/7/13 14:01
+ * Created by evildoerDb on 2018/7/13 14:01
  *
  * 乘法
  */

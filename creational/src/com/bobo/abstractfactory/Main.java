@@ -1,7 +1,7 @@
 package com.bobo.abstractfactory;
 
 /**
- * Created by bobo.dou on 2018/7/17 16:02
+ * Created by evildoerDb on 2018/7/17 16:02
  *
  * 抽象工厂测试
  */

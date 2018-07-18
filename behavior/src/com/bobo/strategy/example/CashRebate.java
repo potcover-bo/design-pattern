@@ -1,7 +1,7 @@
 package com.bobo.strategy.example;
 
 /**
- * Created by bobo.dou on 2018/7/13 15:23
+ * Created by evildoerDb on 2018/7/13 15:23
  *
  * 打折类
  */

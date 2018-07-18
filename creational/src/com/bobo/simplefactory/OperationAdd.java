@@ -1,7 +1,7 @@
 package com.bobo.simplefactory;
 
 /**
- * Created by bobo.dou on 2018/7/13 13:58
+ * Created by evildoerDb on 2018/7/13 13:58
  * 加法
  */
 public class OperationAdd extends Operation {
