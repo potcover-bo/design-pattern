@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by bobo.dou@weimob.com on 2018/7/17 10:58
+ * Created by bobo.dou on 2018/7/17 10:58
  */
 public class Product {
 

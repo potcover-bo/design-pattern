@@ -1,7 +1,7 @@
 package com.bobo.observer;
 
 /**
- * Created by bobo.dou@weimob.com on 2018/7/17 13:44
+ * Created by bobo.dou on 2018/7/17 13:44
  */
 public class OctalObserver extends Observer{
 

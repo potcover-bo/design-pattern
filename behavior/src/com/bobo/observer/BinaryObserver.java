@@ -1,7 +1,7 @@
 package com.bobo.observer;
 
 /**
- * Created by bobo.dou@weimob.com on 2018/7/17 13:42
+ * Created by bobo.dou on 2018/7/17 13:42
  */
 public class BinaryObserver extends Observer {
 

@@ -1,7 +1,7 @@
 package com.bobo.strategy;
 
 /**
- * Created by bobo.dou@weimob.com on 2018/7/13 15:05
+ * Created by bobo.dou on 2018/7/13 15:05
  *
  * 实现A算法的类 继承自Strategy
  */

@@ -1,7 +1,7 @@
 package com.bobo.abstractfactory;
 
 /**
- * Created by bobo.dou@weimob.com on 2018/7/17 15:45
+ * Created by bobo.dou on 2018/7/17 15:45
  *
  * 实现图形的接口
  */

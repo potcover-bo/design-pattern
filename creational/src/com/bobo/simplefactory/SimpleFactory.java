@@ -1,7 +1,7 @@
 package com.bobo.simplefactory;
 
 /**
- * Created by bobo.dou@weimob.com on 2018/7/13 14:03
+ * Created by bobo.dou on 2018/7/13 14:03
  *
  * 简单工场的类
  */

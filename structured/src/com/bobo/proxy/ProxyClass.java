@@ -1,7 +1,7 @@
 package com.bobo.proxy;
 
 /**
- * Created by bobo.dou@weimob.com on 2018/7/16 16:37
+ * Created by bobo.dou on 2018/7/16 16:37
  */
 public class ProxyClass implements Subject {
 

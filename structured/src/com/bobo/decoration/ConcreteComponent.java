@@ -1,7 +1,7 @@
 package com.bobo.decoration;
 
 /**
- * Created by bobo.dou@weimob.com on 2018/7/16 16:13
+ * Created by bobo.dou on 2018/7/16 16:13
  */
 public  class ConcreteComponent  extends Component{
     @Override

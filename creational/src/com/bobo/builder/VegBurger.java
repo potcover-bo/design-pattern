@@ -1,7 +1,7 @@
 package com.bobo.builder;
 
 /**
- * Created by bobo.dou@weimob.com on 2018/7/17 10:35
+ * Created by bobo.dou on 2018/7/17 10:35
  * 蔬菜汉堡
  */
 public class VegBurger extends Burger {

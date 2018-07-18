@@ -1,7 +1,7 @@
 package com.bobo.prototype;
 
 /**
- * Created by bobo.dou@weimob.com on 2018/7/16 17:50
+ * Created by bobo.dou on 2018/7/16 17:50
  */
 public class Female extends Person implements Cloneable{
 

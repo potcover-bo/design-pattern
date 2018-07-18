@@ -1,7 +1,7 @@
 package com.bobo.builder.abstracts;
 
 /**
- * Created by bobo.dou@weimob.com on 2018/7/17 10:56
+ * Created by bobo.dou on 2018/7/17 10:56
  *
  * 建造者模式
  */

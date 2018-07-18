@@ -1,7 +1,7 @@
 package com.bobo.strategy;
 
 /**
- * Created by bobo.dou@weimob.com on 2018/7/13 14:51
+ * Created by bobo.dou on 2018/7/13 14:51
  *
  * 测试
  */
