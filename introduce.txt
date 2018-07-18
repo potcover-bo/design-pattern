@@ -1,3 +1,6 @@
+注：有些代码和总结摘自菜鸟教程http://www.runoob.com/design-pattern/design-pattern-tutorial.html
+    或者来自大话设计模式
+
 设计模式从大的方面分为三类
 分别 创造型、结构型、表现型
 创造型进行了对象的创建或者说初始化
