@@ -1,5 +1,7 @@
 package com.bobo.prototype;
 
+import java.util.HashMap;
+
 /**
  * Created by evildoerDb on 2018/7/16 17:51
  */
@@ -16,6 +18,7 @@ public class Main {
         male.say();
         System.out.println(male1);
         System.out.println(male);
+
 
     }
 }
